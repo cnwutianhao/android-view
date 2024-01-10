@@ -27,6 +27,7 @@
 
         <activity android:name=".ui.skeleton.SkeletonActivity" />
         <activity android:name=".ui.skeleton.SkeletonDetailActivity" />
+        <activity android:name=".ui.floatnode.FloatNodeActivity" />
 
     </application>
 

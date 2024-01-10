@@ -3,4 +3,6 @@
 
     <string name="skeleton">加载时占位图形</string>
     <string name="skeleton_article_category">类型：%1$s</string>
+
+    <string name="float_node">音符动画</string>
 </resources>

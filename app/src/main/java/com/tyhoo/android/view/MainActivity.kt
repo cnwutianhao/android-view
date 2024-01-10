@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.tyhoo.android.view.ui.floatnode.FloatNodeActivity
 import com.tyhoo.android.view.ui.skeleton.SkeletonActivity
 
 class MainActivity : AppCompatActivity() {
@@ -14,6 +15,11 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<Button>(R.id.btn_skeleton).setOnClickListener {
             val intent = Intent(this, SkeletonActivity::class.java)
+            startActivity(intent)
+        }
+
+        findViewById<Button>(R.id.btn_node).setOnClickListener {
+            val intent = Intent(this, FloatNodeActivity::class.java)
             startActivity(intent)
         }
     }
