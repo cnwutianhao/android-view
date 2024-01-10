@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="shimmer_color">#a2878787</color>
+    <color name="shimmer_background_color">#b1b1b1</color>
+
+    <color name="skeleton_light_transparent">#16000000</color>
+    <color name="skeleton_dark_transparent">#24000000</color>
+</resources>
