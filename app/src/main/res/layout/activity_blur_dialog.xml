@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_blur_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="显示对话框"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="暴雪、寒潮、大风，1月21日，中央气象台连发三预警，也预示着2024年首场寒潮强势来袭。今年的首个寒潮，有什么样的特点？雨雪天气又将如何进展？而再过几天，一年一度的春运就要开始，回家的路是否会受到影响？《新闻1+1》白岩松邀请中央气象台首席预报员马学款；湖南省低温雨雪冰冻灾害应急指挥部办公室处长汤喜春，共同关注：寒潮来袭，如何应对？ \n 1月22日早上，气温0摄氏度线已经抵达贵州南部、湖南南部、江西北部、江苏南部一带。截至1月22日，山东烟台持续降雪，烟台市平均降雪3.2毫米；1月22日，福建省气象台继续发布“海上大风预警Ⅳ级”；位于晋陕峡谷之间的黄河壶口段，出现大面积流凌，并在壶口瀑布下游的“十里龙槽”不断堆积。 \n 中央气象台首席预报员 马学款：这一次寒潮的影响范围比较广，对我国中东部大部地区，都造成了大幅度的剧烈降温。另外，持续时间也比较长，从寒潮影响开始到基本结束，大概有4—5天的时间。之所以能称为寒潮，必须具备影响范围广和降温幅度比较明显这样的特点。这次寒潮从温度变化的特点来讲，跟以往寒潮是没有区别的。从强度来讲，跟历史同期活动的寒潮强度相比，大概处于一个中等偏强的寒潮强度。另外，这次寒潮有一个比较明显的特点，就是伴随着寒潮活动，我国南方地区出现了大范围的强降雪，降雪量还具有一定的极端性，这是这次寒潮过程一个最鲜明的特点。 \n 中央气象台首席预报员 马学款：2008年那场雨雪冰冻天气，除了暴雪和低温之外，它最显著的特点就是冻雨非常明显，一些电线、林木，包括农作物、建筑物大量结冰，导致了比较严重的灾害。这次寒潮过程则主要以强降雪为主，冻雨的范围非常小，从目前情况看，主要在一些高海拔山区出现了局地冻雨，因此从这个角度来讲，这次过程和2008年那次是有明显区别的，所以它的致灾性远远不如2008年的雨雪冰冻天气。 \n 中央气象台首席预报员 马学款：由于这次寒潮降温幅度比较剧烈，寒潮过后，低温持续时间比较长，一方面可能会对人体健康有一些不利影响。大家外出时要注意防寒保暖，谨防感冒，特别是对一些有心脑血管基础疾病的人来说，一定要防止在骤冷骤热的情况下，引起发病的风险，做好自身防护。另外，气温比较低也会引起一些能源供应需求的剧增，相关部门要及时做好能源保供工作。低温还会对农业生产带来一些影响，像一些露地的蔬菜、林果、热带水果、油菜等等，可能会因低温冷害，造成生长缓慢甚至损伤的情况。在这次寒潮过程当中，南方地区还出现了大范围的强降雪，气温降到0摄氏度以下，也会出现一些路面结冰的情况，会对交通运输造成比较大的影响。除此之外，由于雪量比较大，以湿雪为主，一些设施农业还可能会出现温棚垮塌等情况，对设施农业来讲，要注意及时除雪，做好温棚内的这种保温工作。"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_blur_dialog" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

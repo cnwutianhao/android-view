@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.tyhoo.android.view.ui.blurdialog.BlurDialogActivity
 import com.tyhoo.android.view.ui.floatnode.FloatNodeActivity
 import com.tyhoo.android.view.ui.progressbar.RingProgressBarActivity
 import com.tyhoo.android.view.ui.skeleton.SkeletonActivity
@@ -26,6 +27,11 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<Button>(R.id.btn_ring_progress_bar).setOnClickListener {
             val intent = Intent(this, RingProgressBarActivity::class.java)
+            startActivity(intent)
+        }
+
+        findViewById<Button>(R.id.btn_blur_dialog).setOnClickListener {
+            val intent = Intent(this, BlurDialogActivity::class.java)
             startActivity(intent)
         }
     }

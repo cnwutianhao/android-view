@@ -7,4 +7,6 @@
     <string name="float_node">音符动画</string>
 
     <string name="ring_progress_bar">圆环进度条</string>
+
+    <string name="blur_dialog">高斯模糊对话框</string>
 </resources>
