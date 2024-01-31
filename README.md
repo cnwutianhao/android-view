@@ -11,3 +11,12 @@
 
 + [高斯模糊对话框](https://github.com/cnwutianhao/android-view/tree/main/app/src/main/java/com/tyhoo/android/view/ui/blurdialog)
   <br/><img src="https://github.com/cnwutianhao/android-view/assets/13990136/4b4a1338-5850-4768-91a6-d43a69a73074" alt="高斯模糊对话框" width="200" />
+
++ [圆弧拖动条](https://github.com/cnwutianhao/android-view/tree/main/app/src/main/java/com/tyhoo/android/view/ui/seekbar)
+  <br/><img src="https://github.com/cnwutianhao/android-view/assets/13990136/7616100a-ad33-4a27-a7a5-8211754b0164" alt="圆弧拖动条" width="200" />
+
+## Acknowledgement
+
+This project was based on or inspired by these projects and so on:
++ [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge.
++ [ArcSeekBar](https://github.com/GcsSloop/arc-seekbar) - Android 圆弧形 SeekBar
