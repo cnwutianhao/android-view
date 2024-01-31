@@ -30,6 +30,7 @@
         <activity android:name=".ui.floatnode.FloatNodeActivity" />
         <activity android:name=".ui.progressbar.RingProgressBarActivity" />
         <activity android:name=".ui.blurdialog.BlurDialogActivity" />
+        <activity android:name=".ui.seekbar.ArcSeekBarActivity" />
 
     </application>
 

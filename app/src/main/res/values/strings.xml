@@ -9,4 +9,6 @@
     <string name="ring_progress_bar">圆环进度条</string>
 
     <string name="blur_dialog">高斯模糊对话框</string>
+
+    <string name="arc_seek_bar">圆弧拖动条</string>
 </resources>

@@ -7,6 +7,7 @@ import android.widget.Button
 import com.tyhoo.android.view.ui.blurdialog.BlurDialogActivity
 import com.tyhoo.android.view.ui.floatnode.FloatNodeActivity
 import com.tyhoo.android.view.ui.progressbar.RingProgressBarActivity
+import com.tyhoo.android.view.ui.seekbar.ArcSeekBarActivity
 import com.tyhoo.android.view.ui.skeleton.SkeletonActivity
 
 class MainActivity : AppCompatActivity() {
@@ -32,6 +33,11 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<Button>(R.id.btn_blur_dialog).setOnClickListener {
             val intent = Intent(this, BlurDialogActivity::class.java)
+            startActivity(intent)
+        }
+
+        findViewById<Button>(R.id.btn_arc_seek_bar).setOnClickListener {
+            val intent = Intent(this, ArcSeekBarActivity::class.java)
             startActivity(intent)
         }
     }
