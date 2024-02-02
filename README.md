@@ -13,7 +13,7 @@
   <br/><img src="https://github.com/cnwutianhao/android-view/assets/13990136/4b4a1338-5850-4768-91a6-d43a69a73074" alt="高斯模糊对话框" width="200" />
 
 + [圆弧拖动条](https://github.com/cnwutianhao/android-view/tree/main/app/src/main/java/com/tyhoo/android/view/ui/seekbar)
-  <br/><img src="https://github.com/cnwutianhao/android-view/assets/13990136/7616100a-ad33-4a27-a7a5-8211754b0164" alt="圆弧拖动条" width="200" />
+  <br/><img src="https://github.com/cnwutianhao/android-view/assets/13990136/0e657370-bb8d-4c66-a19b-22b40d5edaed" alt="圆弧拖动条" width="200" />
 
 ## Acknowledgement
 
