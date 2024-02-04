@@ -1,5 +1,7 @@
 # 各种各样的 Android 自定义 View
 
+## 自定义 View
+
 + [加载时占位图形](https://github.com/cnwutianhao/android-view/tree/main/app/src/main/java/com/tyhoo/android/view/ui/skeleton)
   <br/><img src="https://github.com/cnwutianhao/android-view/assets/13990136/9ab86307-6975-4ee4-9d5b-cb5e7c2413bd" alt="加载时占位图形" width="200" />
   
@@ -20,3 +22,7 @@
 This project was based on or inspired by these projects and so on:
 + [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge.
 + [ArcSeekBar](https://github.com/GcsSloop/arc-seekbar) - Android 圆弧形 SeekBar
+
+## Repo Activity
+
+![Repo Activity](https://repobeats.axiom.co/api/embed/78750016cd7b355ffbc428687fdf28546ce32ab4.svg "Repobeats analytics image")
